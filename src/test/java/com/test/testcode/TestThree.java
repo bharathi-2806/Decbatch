@@ -6,7 +6,8 @@ public class TestThree {
 
 	@Test
 	public void three() {
-System.out.println("Test three class");
-System.out.println("hello");
+			System.out.println("Test three class");
+			System.out.println("hello");
+			System.out.println("hi");
 	}
 }
